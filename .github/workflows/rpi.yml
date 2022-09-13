@@ -2,7 +2,7 @@ name: Build RPI
 
 on:
   push:
-    branches: [ master,"rapha-test", "2.0", "2.1-milestones" ]
+    branches: [ master,"testing-bu", "2.0", "2.1-milestones" ]
 
 env:
   # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
